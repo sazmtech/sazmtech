@@ -1,72 +1,73 @@
-# SazM Technology
+<p align="center">
+  <a href="https://sazm.in">
+    <img src="https://sazm.in/og-image.png" alt="SazM — Fixed-price website fixes by a 20-year senior developer" width="100%" />
+  </a>
+</p>
 
-**Principal Software Engineering · Web Systems Architecture · Platform Modernization · Technical Leadership**
+# SazM | Fixed-Price Website Fixes & Senior Web Engineering
 
-SazM is an independent, edge-native software engineering practice and technical consultancy. We design, modernize, and maintain business-critical web platforms, custom applications, and high-concurrency cloud architectures.
+**Fixed-price WordPress, WooCommerce & PHP fixes: emergency fix $99 in 48h, speed fix $199, WordPress care $49/mo. 20+ years in production. No meetings.**
 
-This account manages the technology infrastructure and repositories for the **[SazM Organization (@sazmco)](https://github.com/sazmco)** and is founded and operated by **[Saravana Bhava (@saravana-bhava)](https://github.com/saravana-bhava)**.
+SazM fixes WordPress, WooCommerce and PHP sites at a fixed price agreed before work starts: an emergency fix ($99, delivered within 48 hours) for a site that is down, a critical error, a broken checkout or an unpatched PHP vulnerability; a speed fix ($199) with before and after measurements; and a WordPress care plan ($49/month) with tested weekly updates, daily backups, security patching and uptime checks. Clients with a backlog continue on a monthly development plan ($999/month, one task at a time, 24–48 hour delivery per task). Everything happens in writing, no meetings.
 
-Backed by **20+ years of continuous production experience (2004 – present)** and over **106 production systems shipped** across enterprise healthcare, e-commerce, real estate, and cloud infrastructure.
+This account manages technical infrastructure and repositories for the **[SazM Organization (@sazmco)](https://github.com/sazmco)**, founded and operated by **[Saravana Bhava (@saravana-bhava)](https://github.com/saravana-bhava)**.
 
-[Website (sazm.in)](https://sazm.in) • [Company Org (@sazmco)](https://github.com/sazmco) • [Founder Profile](https://github.com/saravana-bhava) • [LinkedIn](https://www.linkedin.com/in/saravana-bhava) • [X / Twitter (@sazmco)](https://x.com/sazmco) • [Case Studies](https://sazm.in/portfolio) • [Resume (PDF)](https://sazm.in/resume.pdf)
+Backed by **20+ years of production experience (since Oct 2006)**. Before SazM, Saravana spent over 14 years as lead developer for US agency Weismann Web, whose CEO credits him with 1,000+ projects for 300+ clients.
 
----
-
-## 🏛 Focus Areas & Specializations
-
-* **Edge-Native Architectures:** Cloudflare Workers (V8 Isolates), D1 SQLite, R2 Zero-Egress Storage, KV Namespaces with sub-20ms global execution.
-* **Platform & Monolith Modernization:** Strangler Fig pattern decoupling, technical debt remediation, and Next.js monolith migrations to Astro 7 + Preact islands (-82% hosting costs).
-* **Database Engineering & Query Tuning:** MySQL & SQLite schema normalization, composite covering indexes, and zero-table-scan query topologies (-60% CPU utilization).
-* **High-Throughput Commerce & Billing:** Cashfree PA-CB (UPI, NetBanking, Cards) and PayPal Subscriptions (USD) with HMAC-SHA256 idempotency, replay protection, and automated GST/LUT tax invoicing.
-* **Autonomous Delivery & Tooling:** Linear webhook integrations, automated edge preview isolates (`preview-[id].sazm.in`), and AI-accelerated code delivery pipelines.
+[Website (sazm.in)](https://sazm.in) • [Emergency Fix ($99)](https://sazm.in/checkout/emergency) • [Speed Fix ($199)](https://sazm.in/checkout/speed) • [WordPress Care ($49/mo)](https://sazm.in/checkout/care) • [Free Speed Audit](https://sazm.in/audit) • [Portfolio (100+ Projects)](https://sazm.in/projects) • [Technical Articles](https://sazm.in/articles)
 
 ---
 
-## ⚙️ How SazM Operates (Development-as-a-Service)
+### ⚙️ How SazM Operates (Strict Written Delivery)
 
-Through **[sazm.in](https://sazm.in)**, we deliver senior software engineering on a predictable subscription retainer:
+Every task follows a predictable progression from written intake to verified production release:
 
-* ⏱️ **Guaranteed 24–48 Hour Turnaround SLA** per feature deliverable
-* 🎯 **Strict 1-Task Work-in-Progress Limit** (100% focused attention, zero context switching)
-* 🚫 **Zero Meeting Overhead:** 100% written asynchronous technical specifications and updates
-* 🔒 **Complete Code Ownership:** All deliverables committed directly to your repository with automated CI/CD quality gates
-* 💳 **Predictable Monthly Retainer:** Flat $2,000 / month (India: ₹200,000 / month). Pause or cancel anytime with 1 click.
+1. **Intake:** Submit your task and URL in writing at checkout or via email. No discovery calls or scheduling overhead.
+2. **Diagnosis & Scope:** Root cause identified, technical remedy specified, and scope locked before work begins.
+3. **Execution:** Senior engineering with a strict 24–48h delivery SLA (or within 48h for emergency fixes).
+4. **Verification Gate:** Automated unit/integration tests, staging validation, speed measurement, and security checks.
+5. **Release & Handover:** Git commit/PR merge, zero-downtime deployment, and concise written release summary.
 
 ---
 
-## 🛠 Featured Platforms & Production Systems
+### 🛠 Core Services & Production Stack
 
-| Platform / Repository | Description | Key Tech Stack |
+* **Emergency Fixes ($99):** Site down, 500 fatal errors, broken checkout, white screen of death, or unpatched PHP vulnerability patched within 48 hours.
+* **Speed Fixes ($199):** Core Web Vitals remediation, TTFB optimization, query indexing, asset minification, and Cloudflare Edge caching with before-and-after proof.
+* **WordPress Care ($49/mo):** Tested weekly core/plugin updates, daily off-site backups, security patching, and automated 24/7 uptime monitoring.
+* **Monthly Engineering ($999/mo):** One active task at a time, 24–48 hour turnaround per task, sequential backlog execution for ongoing product roadmaps.
+
+**Production Stack:** PHP/Laravel, WordPress/WooCommerce, Shopify, Magento, TypeScript, React/Next.js, Node.js, Python, MySQL, PostgreSQL, Cloudflare Workers & Pages.
+
+---
+
+### 🚀 Engagement Models
+
+| Model | Deliverables & SLA | Pricing |
 | :--- | :--- | :--- |
-| **[SazM](https://sazm.in)** | Edge-native DaaS platform, client portal, automated billing & preview staging | Astro 7, Cloudflare Workers, D1 SQLite, Preact, Tailwind CSS |
-| **[Project Showcase](https://github.com/saravana-bhava/project-showcase)** | Curated archive of 106+ production systems delivered across 20+ years | Full-Stack, TypeScript, Edge Architectures |
-| **[TrustAds](https://github.com/saravana-bhava/trustads.pro)** | Advertising campaign management, reporting, automation, and BI platform | React, TypeScript, REST APIs, Microservices |
-| **[Reelvo](https://github.com/saravana-bhava/reelvo.in)** | AI-powered content automation platform and video rendering pipeline | Python, Media Pipelines, Automation APIs |
+| **Emergency Fix** | Crash recovery, fatal errors, checkout repair, PHP security patching · 48h delivery | $99 one-time fixed price |
+| **Speed Fix** | Core Web Vitals, TTFB tuning, database indexing, edge caching · Before & after metrics | $199 one-time fixed price |
+| **WordPress Care Plan** | Tested weekly updates, daily automated backups, uptime checks, vulnerability patches | $49/month ongoing maintenance |
+| **Monthly Development Plan** | 1 active task at a time, 24–48h delivery per task, pause or cancel anytime | $999/month ongoing development |
+
+👉 **Start an emergency fix or care plan directly at [sazm.in](https://sazm.in).**  
+*Direct Contact:* [hello@sazm.in](mailto:hello@sazm.in)
 
 ---
 
-## 📐 Engineering Principles
-
-1. **Architecture Before Implementation:** Clear written specifications, schema designs, and test criteria before writing code.
-2. **Performance by Default:** Zero render-blocking assets, sub-300ms global FCP, and 100/100 Core Web Vitals.
-3. **Strict Type Safety:** End-to-end TypeScript from database schema to user interface.
-4. **Minimal Dependencies:** Standard Web APIs and lightweight primitives over bloated npm dependency trees.
-5. **Direct Repository Commits:** Clean Git commits, isolated branches, and documented PR releases.
-
----
-
-## 🌐 Connected Profiles & Organizations
+### 🌐 Connected Profiles & Organizations
 
 * **SazM Organization:** [github.com/sazmco](https://github.com/sazmco) — *Primary client repository organization*
-* **Founder & Principal Architect:** [Saravana Bhava (@saravana-bhava)](https://github.com/saravana-bhava)
+* **Founder:** [Saravana Bhava, Founder · Senior Full-Stack Developer (React, Node.js, PHP)](https://github.com/saravana-bhava)
 * **Founder LinkedIn:** [linkedin.com/in/saravana-bhava](https://www.linkedin.com/in/saravana-bhava)
+* **Company LinkedIn:** [linkedin.com/company/sazmco](https://www.linkedin.com/company/sazmco)
 * **Company X / Twitter:** [@sazmco](https://x.com/sazmco)
 * **Founder X / Twitter:** [@saravana_bhava_](https://x.com/saravana_bhava_)
-* **Platform Website:** [sazm.in](https://sazm.in)
-* **Production Portfolio & Case Studies:** [sazm.in/portfolio](https://sazm.in/portfolio)
-* **Engineering Articles & Teardowns:** [sazm.in/articles](https://sazm.in/articles)
-* **Diagnostic Audit:** [sazm.in/audit](https://sazm.in/audit)
+* **YouTube:** [@sazmco](https://www.youtube.com/@sazmco)
+* **Production Portfolio:** [sazm.in/projects](https://sazm.in/projects)
+* **Engineering Articles:** [sazm.in/articles](https://sazm.in/articles)
+* **Speed Audit:** [sazm.in/audit](https://sazm.in/audit)
 
 ---
 
-> *"Delivering high-concurrency systems, edge backends, and platform migrations with 20+ years of battle-tested engineering precision."*
+> *"Delivering high-performance systems, edge backends, and platform migrations with 20+ years of battle-tested engineering precision."*
