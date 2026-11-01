@@ -1,72 +1,70 @@
+<p align="center">
+  <a href="https://sazm.in">
+    <img src="https://sazm.in/og-image.png" alt="SazM — Fixed-price website fixes by a senior developer with 20+ years in production" width="100%" />
+  </a>
+</p>
+
 # SazM Technology
 
-**Principal Software Engineering · Web Systems Architecture · Platform Modernization · Technical Leadership**
+**Fixed-price website fixes, speed optimization, and senior web development by a senior developer with 20+ years in production (since Oct 2006). 100% async workflow.**
 
-SazM is an independent, edge-native software engineering practice and technical consultancy. We design, modernize, and maintain business-critical web platforms, custom applications, and high-concurrency cloud architectures.
+SazM delivers senior full-stack web engineering, production problem diagnosis, and performance optimization for businesses, online stores, and founders. We fix WordPress, WooCommerce, PHP, and modern web apps at fixed prices agreed before work starts: an urgent fix ($99, delivered within 48 hours) for broken checkout, fatal errors, or critical vulnerabilities; a speed fix ($199) with measured Core Web Vitals before-and-after proof; and WordPress care ($49/month) with weekly updates and daily backups. Ongoing development is delivered on a monthly plan ($999/month, one task at a time, 24–48h turnaround per task).
+
+All work is delivered 100% asynchronously in writing—no meetings, no discovery calls.
 
 This account manages the technology infrastructure and repositories for the **[SazM Organization (@sazmco)](https://github.com/sazmco)** and is founded and operated by **[Saravana Bhava (@saravana-bhava)](https://github.com/saravana-bhava)**.
 
-Backed by **20+ years of continuous production experience (2004 – present)** and over **106 production systems shipped** across enterprise healthcare, e-commerce, real estate, and cloud infrastructure.
+Backed by **20+ years in production (since Oct 2006)**, **100+ projects in the portfolio**, and **1,000+ projects for 300+ clients for Weismann Web per CEO letter**.
 
-[Website (sazm.in)](https://sazm.in) • [Company Org (@sazmco)](https://github.com/sazmco) • [Founder Profile](https://github.com/saravana-bhava) • [LinkedIn](https://www.linkedin.com/in/saravana-bhava) • [X / Twitter (@sazmco)](https://x.com/sazmco) • [Case Studies](https://sazm.in/portfolio) • [Resume (PDF)](https://sazm.in/resume.pdf)
+[Website (sazm.in)](https://sazm.in) • [Emergency Fix ($99)](https://sazm.in/checkout/emergency) • [Speed Fix ($199)](https://sazm.in/checkout/speed) • [WordPress Care ($49/mo)](https://sazm.in/checkout/care) • [Free Speed Audit](https://sazm.in/audit) • [Portfolio (100+ Projects)](https://sazm.in/projects) • [Technical Articles](https://sazm.in/articles)
 
 ---
 
 ## 🏛 Focus Areas & Specializations
 
-* **Edge-Native Architectures:** Cloudflare Workers (V8 Isolates), D1 SQLite, R2 Zero-Egress Storage, KV Namespaces with sub-20ms global execution.
-* **Platform & Monolith Modernization:** Strangler Fig pattern decoupling, technical debt remediation, and Next.js monolith migrations to Astro 7 + Preact islands (-82% hosting costs).
-* **Database Engineering & Query Tuning:** MySQL & SQLite schema normalization, composite covering indexes, and zero-table-scan query topologies (-60% CPU utilization).
-* **High-Throughput Commerce & Billing:** Cashfree PA-CB (UPI, NetBanking, Cards) and PayPal Subscriptions (USD) with HMAC-SHA256 idempotency, replay protection, and automated GST/LUT tax invoicing.
-* **Autonomous Delivery & Tooling:** Linear webhook integrations, automated edge preview isolates (`preview-[id].sazm.in`), and AI-accelerated code delivery pipelines.
+* **Production Problem Diagnosis & Emergency Fixes:** Crash recovery, fatal 500 errors, broken checkouts, payment gateway failures, and vulnerability patches delivered within 48 hours.
+* **Speed Optimization & Core Web Vitals:** TTFB reduction, database indexing, caching layers, asset minification, and Cloudflare Edge caching with documented before-and-after metrics.
+* **Full-Stack Web Engineering:** Custom web applications, API integrations, and checkout flows built with TypeScript, React, Next.js, Node.js, PHP, Laravel, and Cloudflare Workers.
+* **High-Converting Checkout & Payment Integrations:** PayPal and major payment flows with idempotency, webhook security, and automated transaction verification.
+* **WordPress & WooCommerce Maintenance:** Proactive weekly plugin and core testing, off-site automated backups, uptime monitoring, and ongoing security audits.
 
 ---
 
-## ⚙️ How SazM Operates (Development-as-a-Service)
+## ⚙️ How SazM Operates (100% Async Delivery)
 
-Through **[sazm.in](https://sazm.in)**, we deliver senior software engineering on a predictable subscription retainer:
+Through **[sazm.in](https://sazm.in)**, every task follows a disciplined written delivery workflow:
 
-* ⏱️ **Guaranteed 24–48 Hour Turnaround SLA** per feature deliverable
-* 🎯 **Strict 1-Task Work-in-Progress Limit** (100% focused attention, zero context switching)
-* 🚫 **Zero Meeting Overhead:** 100% written asynchronous technical specifications and updates
-* 🔒 **Complete Code Ownership:** All deliverables committed directly to your repository with automated CI/CD quality gates
-* 💳 **Predictable Monthly Retainer:** Flat $2,000 / month (India: ₹200,000 / month). Pause or cancel anytime with 1 click.
-
----
-
-## 🛠 Featured Platforms & Production Systems
-
-| Platform / Repository | Description | Key Tech Stack |
-| :--- | :--- | :--- |
-| **[SazM](https://sazm.in)** | Edge-native DaaS platform, client portal, automated billing & preview staging | Astro 7, Cloudflare Workers, D1 SQLite, Preact, Tailwind CSS |
-| **[Project Showcase](https://github.com/saravana-bhava/project-showcase)** | Curated archive of 106+ production systems delivered across 20+ years | Full-Stack, TypeScript, Edge Architectures |
-| **[TrustAds](https://github.com/saravana-bhava/trustads.pro)** | Advertising campaign management, reporting, automation, and BI platform | React, TypeScript, REST APIs, Microservices |
-| **[Reelvo](https://github.com/saravana-bhava/reelvo.in)** | AI-powered content automation platform and video rendering pipeline | Python, Media Pipelines, Automation APIs |
+* ⏱️ **Fixed-price fixes within 48 hours** of receiving details and access
+* ⚡ **24–48h delivery per task on monthly plan** (1 active task at a time, focused attention)
+* 🚫 **Zero Meeting Overhead:** 100% written asynchronous specifications, progress updates, and code reviews
+* 🔒 **Complete Code Ownership:** Clean Git commits, pull requests, and production-ready code directly in your repository
+* 💳 **Transparent Fixed Pricing:** Urgent fix $99 · Speed fix $199 · WordPress care $49/mo · Monthly plan $999/mo
 
 ---
 
-## 📐 Engineering Principles
+## 🚀 Engagement Models
 
-1. **Architecture Before Implementation:** Clear written specifications, schema designs, and test criteria before writing code.
-2. **Performance by Default:** Zero render-blocking assets, sub-300ms global FCP, and 100/100 Core Web Vitals.
-3. **Strict Type Safety:** End-to-end TypeScript from database schema to user interface.
-4. **Minimal Dependencies:** Standard Web APIs and lightweight primitives over bloated npm dependency trees.
-5. **Direct Repository Commits:** Clean Git commits, isolated branches, and documented PR releases.
+| Model | Turnaround & SLA | Pricing (USD) | Scope |
+| :--- | :--- | :--- | :--- |
+| **Emergency Fix** | Within 48 hours | $99 one-time | Crash recovery, fatal 500 errors, checkout breakdown, vulnerability patch |
+| **Speed Fix** | Within 48 hours | $199 one-time | Core Web Vitals remediation, query tuning, edge caching with before/after proof |
+| **WordPress Care** | Ongoing monthly | $49 / month | Tested weekly updates, daily off-site backups, security patching, uptime checks |
+| **Monthly Plan** | 24–48h per task | $999 / month | Active queue of tasks, one at a time, cancel or pause anytime |
 
 ---
 
-## 🌐 Connected Profiles & Organizations
+## 🌐 Connected Profiles & Channels
 
-* **SazM Organization:** [github.com/sazmco](https://github.com/sazmco) — *Primary client repository organization*
-* **Founder & Principal Architect:** [Saravana Bhava (@saravana-bhava)](https://github.com/saravana-bhava)
+* **SazM Organization:** [github.com/sazmco](https://github.com/sazmco) — *Primary organization for open-source tools and client repositories*
+* **Founder Profile:** [Saravana Bhava (@saravana-bhava)](https://github.com/saravana-bhava)
 * **Founder LinkedIn:** [linkedin.com/in/saravana-bhava](https://www.linkedin.com/in/saravana-bhava)
+* **Company LinkedIn:** [linkedin.com/company/sazmco](https://www.linkedin.com/company/sazmco)
 * **Company X / Twitter:** [@sazmco](https://x.com/sazmco)
-* **Founder X / Twitter:** [@saravana_bhava_](https://x.com/saravana_bhava_)
-* **Platform Website:** [sazm.in](https://sazm.in)
-* **Production Portfolio & Case Studies:** [sazm.in/portfolio](https://sazm.in/portfolio)
-* **Engineering Articles & Teardowns:** [sazm.in/articles](https://sazm.in/articles)
+* **YouTube:** [@sazmco](https://www.youtube.com/@sazmco)
+* **Website:** [sazm.in](https://sazm.in)
+* **Portfolio:** [sazm.in/projects](https://sazm.in/projects)
 * **Diagnostic Audit:** [sazm.in/audit](https://sazm.in/audit)
 
 ---
 
-> *"Delivering high-concurrency systems, edge backends, and platform migrations with 20+ years of battle-tested engineering precision."*
+> *"Fixed-price website fixes, speed optimization, and senior web development with 20+ years in production (since Oct 2006). 100% async workflow."*
